@@ -1,0 +1,13 @@
+.red{
+    color: blue;
+}
+.blue_bg{
+    background-color: rgb(255, 166, 0);
+    outline-color: chartreuse 2px solid;
+}
+.bold{
+  font-weight: 900;  
+}
+.fancy{
+    font-style: italic;
+}

@@ -1,0 +1,24 @@
+p[title]{
+    font-weight: bold;
+}
+p[title="flower"]{
+    background-color: cadetblue;
+}
+p[title*="flower"]{
+    border: 1px solid crimson;
+}
+p[title~="flower"]{
+    color: greenyellow;
+}
+p[tilte|="flower"]{
+    text-shadow: 1px 2px 3px grey;
+}
+p[title^="flower"]{
+    padding: 10px;
+}
+p[title$="flower"]{
+    width: 300px;
+}
+p[title^="beautiful"][title$="flower"]{
+    text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+a:link{
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited{
+    color:cyan;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+   color:peru
+}

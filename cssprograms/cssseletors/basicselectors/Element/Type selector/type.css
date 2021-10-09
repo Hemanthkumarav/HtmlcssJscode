@@ -1,0 +1,17 @@
+ h1{
+            background-color: blue;
+            border: blue 2px solid;
+        }
+        p{
+            color: brown;
+            outline: 2px solid blueviolet;
+        }
+        input{
+            margin-top: 30px;
+            color: cornsilk;
+        }
+        label{
+            background-color: crimson;
+            margin-bottom: 2px;
+            
+        }
